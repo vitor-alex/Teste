@@ -1,0 +1,2 @@
+create user ‘glpi’@’localhost’ identified by ‘123456’;
+grant all on glpi.* to glpi identified by ‘123456’;
